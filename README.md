@@ -4,14 +4,10 @@
 ### Hello, I'm Maleeha 🌸✨
 
 <div class="header-pic" markdown="1">
-
+    <img src="img1.jpg" width="50">
 </div>
 
-<style>
-mark{
-    color:red;
-}
-</style>
+
 
 
 <!--
