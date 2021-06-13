@@ -4,7 +4,7 @@
 ### Hello, I'm Maleeha 🌸✨
 
 <div class="header" markdown="1">
-    <img src="header.png" width="50">
+    <img src="header.png">
 </div>
 
 
