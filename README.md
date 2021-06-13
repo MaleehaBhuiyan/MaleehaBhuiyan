@@ -13,9 +13,12 @@
 <div class="lang" markdown="1">
     <h2>Languages and Tools</h2>
     <p align="center">
+    <img src="https://img-premium.flaticon.com/png/512/174/174854.png?token=exp=1623608015~hmac=30ad2b887225037eaf66add9fe7e0c47" alt="HTML" height="40" style="vertical-align:top; margin:4px">
+    <img src="https://img-premium.flaticon.com/png/512/732/732190.png?token=exp=1623608190~hmac=67285e83d3f282e9c3ad4de18fef02db" alt="CSS" height="40" style="vertical-align:top; margin:4px">
     <img src="https://www.ruby-lang.org/images/header-ruby-logo.png" alt="Ruby" height="40" style="vertical-align:top; margin:4px">
     <img src="https://rubyonrails.org/images/rails-logo.svg" alt="Ruby on Rails" height="40" style="vertical-align:top; margin:4px">
-    <img src="" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+    <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
+    <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" alt="React" height="40" style="vertical-align:top; margin:4px">
 </p>
 </div>
 
