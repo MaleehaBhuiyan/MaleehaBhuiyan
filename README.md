@@ -1,4 +1,12 @@
-### Hi there 👋
+(setq markdown-css-paths '("custom.css"))
+
+
+### Hello, I'm Maleeha 🌸✨
+
+<div class="header-pic" markdown="1">
+
+</div>
+
 
 <!--
 **MaleehaBhuiyan/MaleehaBhuiyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
