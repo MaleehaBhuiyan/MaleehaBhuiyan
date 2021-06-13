@@ -4,8 +4,7 @@
 ### Hello, I'm Maleeha 🌸✨
 
 <div class="header" markdown="1">
-    <h1>Maleeha Bhuiyan</h1>
-    <img src="img1.jpg" width="50">
+    <img src="header.png" width="50">
 </div>
 
 
