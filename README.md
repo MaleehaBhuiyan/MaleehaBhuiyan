@@ -3,7 +3,8 @@
 
 ### Hello, I'm Maleeha 🌸✨
 
-<div class="header-pic" markdown="1">
+<div class="header" markdown="1">
+    <h1>Maleeha Bhuiyan</h1>
     <img src="img1.jpg" width="50">
 </div>
 
