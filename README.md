@@ -19,6 +19,8 @@
     <img src="https://rubyonrails.org/images/rails-logo.svg" alt="Ruby on Rails" height="40" style="vertical-align:top; margin:4px">
     <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
     <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" alt="React" height="40" style="vertical-align:top; margin:4px">
+    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="Github" height="40" style="vertical-align:top; margin:4px">
+    <img src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" alt="VScode" height="40" style="vertical-align:top; margin:4px">
 </p>
 </div>
 
