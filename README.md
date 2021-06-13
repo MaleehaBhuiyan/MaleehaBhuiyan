@@ -1,15 +1,9 @@
 <link href="style.css" rel="stylesheet"></link>
 
-
-<h1 class="greeting" markdown="1">Hello, I'm Maleeha 👋</h1>
-
-<div class="header-pic" markdown="1">
+<div class="header" markdown="1">
+    <h1 class="greeting" markdown="1">Hello, I'm Maleeha 👋</h1>
     <img src="header.png">
 </div>
-
-<br/>
-
-
 
 <div class="about-ma" markdown="1">
     <h2>About Me</h2>
